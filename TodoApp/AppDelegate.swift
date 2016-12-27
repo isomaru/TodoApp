@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TodoApp
 //
-//  Created by 我妻 直樹 on 2016/12/27.
+//  Created by 我妻 直樹 on 2016/12/26.
 //  Copyright © 2016年 Naoki Agatsuma. All rights reserved.
 //
 
@@ -46,6 +46,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     // MARK: - Core Data stack
 
+    
     lazy var persistentContainer: NSPersistentContainer = {
         /*
          The persistent container for the application. This implementation
